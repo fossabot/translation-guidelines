@@ -73,6 +73,7 @@ $ git rebase upstream/master
 Commit your changes.
 
 ```sh
+$ git add <filename>
 $ git commit -m "$add a comment"
 ```
 
