@@ -1,4 +1,6 @@
 # 翻译流程和规范
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fstreamnative%2Ftranslation-guidelines.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fstreamnative%2Ftranslation-guidelines?ref=badge_shield)
+
 
 欢迎加入 Pulsar 文档翻译项目！翻译前，阅读[翻译流程](#翻译流程)和[翻译规范](#翻译规范)会帮助你快速上手。
 
@@ -152,3 +154,7 @@ Growth 团队管理员收到通知后，在 [Apache Pulsar Tasks](https://crowdi
 
 ## 加入 Contributors
 当你读完本篇内容，开始翻译 Pulsar 文档时，在 [Contributors](https://github.com/streamnative/translation-guidelines/blob/master/CONTRIBUTORS.md) 中加上自己的名字。 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fstreamnative%2Ftranslation-guidelines.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fstreamnative%2Ftranslation-guidelines?ref=badge_large)
